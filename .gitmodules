@@ -1,0 +1,3 @@
+[submodule "dependencies/test"]
+	path = dependencies/test
+	url = https://github.com/elastic/elasticsearch.git
